@@ -1,41 +1,70 @@
-# Jalon Johnson | IT Support / Desktop Support Specialist
+# IT Labs Portfolio
 
-💻 IT Support | Active Directory | Networking | Ticketing Systems  
+Welcome to my hands-on IT lab portfolio. This repository contains practical labs demonstrating skills in Windows Server administration, Active Directory management, and IT support troubleshooting.
 
-CompTIA A+ certified IT Support professional with hands-on experience in Active Directory, Windows Server environments, networking, and ticketing systems. Skilled in troubleshooting hardware, software, and network issues while following structured help desk workflows. Strong background in customer service with a focus on efficient issue resolution. Currently pursuing CompTIA Network+ and seeking IT Support or Desktop Support opportunities.
-
----
-
-## 🔧 Technical Skills
-- Active Directory (User Management, OUs, Password Resets, Account Unlocks)
-- Windows Server 2019 & Windows 10/11
-- Networking (TCP/IP, DNS, DHCP, Troubleshooting)
-- Ticketing Systems (Freshdesk)
-- Virtualization (Oracle VirtualBox)
-- Tools: Command Prompt, Remote Desktop, Server Manager
+These labs simulate real-world tasks commonly performed by help desk technicians and junior system administrators.
 
 ---
 
-## 🧪 Featured Projects
+# Labs Included
 
-### Active Directory Home Lab
-- Deployed and configured a Domain Controller using Windows Server 2019
-- Created and managed users, groups, and Organizational Units (OUs)
-- Performed password resets and simulated account lockouts in a domain environment
+## Active Directory Lab
 
-### Domain & Networking Lab
-- Joined Windows 10 client machine to Active Directory domain
-- Configured DNS and static IP addressing for proper domain communication
-- Troubleshot domain connectivity issues using ping and command-line tools
+Configured Active Directory Domain Services and created users, groups, and organizational units.
 
-### Help Desk Ticketing System (Freshdesk)
-- Managed ticket lifecycle from creation to resolution (Open → In Progress → Resolved → Closed)
-- Simulated real-world IT support scenarios following standard help desk workflows
-- Prioritized and managed multiple tickets based on urgency and impact
-- Escalated incidents to Level 2 support and documented troubleshooting steps
+Skills demonstrated:
+
+* Active Directory Users and Computers
+* User account creation
+* Security group management
+* Organizational Unit structure
 
 ---
 
-## 📫 Contact
-- Email: jalonjohnson39@yahoo.com
-- Location: Open to relocation (Texas)
+## Domain Join Lab
+
+Joined a Windows workstation to an Active Directory domain.
+
+Skills demonstrated:
+
+* Domain authentication
+* Computer object creation
+* Windows domain configuration
+
+---
+
+## File Share Permissions Lab
+
+Configured secure shared folders in Windows Server using security groups and NTFS permissions.
+
+Skills demonstrated:
+
+* Windows file sharing
+* Share permissions
+* NTFS permissions
+* Group-based access control
+* Permission verification
+
+---
+
+## Help Desk Ticketing Lab
+
+Simulated common IT help desk ticket scenarios and troubleshooting procedures.
+
+Skills demonstrated:
+
+* IT troubleshooting workflow
+* User support
+* Ticket documentation
+* Problem resolution
+
+---
+
+# Technologies Used
+
+* Windows Server
+* Active Directory Domain Services
+* NTFS Permissions
+* Windows File Sharing
+* Virtual Machines
+
