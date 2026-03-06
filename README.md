@@ -1,70 +1,74 @@
-# IT Labs Portfolio
+# Jalon Johnson | IT Support / Desktop Support Specialist
 
-Welcome to my hands-on IT lab portfolio. This repository contains practical labs demonstrating skills in Windows Server administration, Active Directory management, and IT support troubleshooting.
+💻 IT Support | Active Directory | Networking | Ticketing Systems
 
-These labs simulate real-world tasks commonly performed by help desk technicians and junior system administrators.
+CompTIA A+ certified IT Support professional with hands-on experience in Active Directory, Windows Server environments, networking, and ticketing systems. Skilled in troubleshooting hardware, software, and network issues while following structured help desk workflows.
 
----
-
-# Labs Included
-
-## Active Directory Lab
-
-Configured Active Directory Domain Services and created users, groups, and organizational units.
-
-Skills demonstrated:
-
-* Active Directory Users and Computers
-* User account creation
-* Security group management
-* Organizational Unit structure
+Currently pursuing CompTIA Network+ and seeking IT Support / Desktop Support opportunities.
 
 ---
 
-## Domain Join Lab
+# Technical Skills
 
-Joined a Windows workstation to an Active Directory domain.
+Operating Systems
+- Windows Server 2019
+- Windows 10 / Windows 11
 
-Skills demonstrated:
+Active Directory
+- User and Group Management
+- Organizational Units (OUs)
+- Password Resets
+- Account Unlocks
+- Group-based permissions
 
-* Domain authentication
-* Computer object creation
-* Windows domain configuration
+Networking
+- TCP/IP
+- DNS
+- DHCP
+- Basic network troubleshooting
+- IP configuration
 
----
-
-## File Share Permissions Lab
-
-Configured secure shared folders in Windows Server using security groups and NTFS permissions.
-
-Skills demonstrated:
-
-* Windows file sharing
-* Share permissions
-* NTFS permissions
-* Group-based access control
-* Permission verification
-
----
-
-## Help Desk Ticketing Lab
-
-Simulated common IT help desk ticket scenarios and troubleshooting procedures.
-
-Skills demonstrated:
-
-* IT troubleshooting workflow
-* User support
-* Ticket documentation
-* Problem resolution
+IT Support Tools
+- Ticketing Systems (Freshdesk)
+- Help Desk workflows
+- Remote troubleshooting
 
 ---
 
-# Technologies Used
+# Featured Projects
 
-* Windows Server
-* Active Directory Domain Services
-* NTFS Permissions
-* Windows File Sharing
-* Virtual Machines
+## Active Directory Home Lab
+- Deployed and configured a Domain Controller using Windows Server 2019
+- Created and managed users, groups, and Organizational Units
+- Simulated password resets and account lockouts
 
+## Domain Join & Networking Lab
+- Joined a Windows 10 client machine to an Active Directory domain
+- Configured DNS and static IP addressing
+- Troubleshot domain connectivity using ping and command-line tools
+
+## Windows Server File Share Permissions Lab
+- Configured shared folders using Windows Server
+- Implemented NTFS permissions and Share permissions
+- Used Active Directory security groups for role-based access control
+- Verified access through user testing
+
+## Help Desk Ticketing System Lab (Freshdesk)
+- Managed ticket lifecycle from Open → In Progress → Resolved → Closed
+- Simulated real-world IT support scenarios
+- Prioritized multiple tickets based on urgency and impact
+- Escalated issues to Level 2 support
+
+---
+
+# Certifications
+
+- CompTIA A+
+- Currently studying for CompTIA Network+
+
+---
+
+# Contact
+
+Email: jalonjohnson39@yahoo.com  
+Location: Alabama (Open to relocation)
